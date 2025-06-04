@@ -2,8 +2,7 @@ schedule
 ========
 
 
-.. image:: https://api.travis-ci.org/dbader/schedule.svg?branch=master
-        :target: https://travis-ci.org/dbader/schedule
+[![CI](https://github.com/talaniz/schedule/actions/workflows/python.yml/badge.svg)](https://github.com/talaniz/schedule/actions/workflows/python.yml)
 
 .. image:: https://coveralls.io/repos/dbader/schedule/badge.svg?branch=master
         :target: https://coveralls.io/r/dbader/schedule
